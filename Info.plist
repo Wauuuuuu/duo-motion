@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.angle.duomotion</string>
+<key>CFBundleName</key><string>Duo Motion</string>
+<key>CFBundleDisplayName</key><string>Duo Motion</string>
+<key>CFBundleExecutable</key><string>Duo Motion</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleVersion</key><string>4</string>
+<key>CFBundleShortVersionString</key><string>1.2</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSScreenCaptureUsageDescription</key><string>仅在本机将当前桌面画面转换为随 MacBook 屏幕开合变化的动画，不录音、不保存或上传画面。</string>
+</dict></plist>
